@@ -1,6 +1,6 @@
 # All Restaurants in Jonesboro, Arkansas, US
 
-> Free BeamStation sample export with 30 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `609093` |
 | Location | Jonesboro |
 | Category | Restaurants |
-| Full dataset size | 306 records |
-| Free sample size | 30 records (9.8%) |
-| Last export | 2026-04-07T11:39:58.996122+00:00 |
+| Full dataset size | 298 records |
+| Free sample size | 29 records (9.73%) |
+| Last export | 2026-04-14T11:33:54.934907+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-jonesboro-arkansas-us-sample-609093/releases/download/sample-latest/beamstation_609093_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
