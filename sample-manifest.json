@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d3bf7c15-997e-4d91-bdf2-9cc099f63f87",
+  "export_job_id": "7aad7362-a904-487e-9270-c7eeff4adc7c",
   "id_short": 609093,
-  "published_at": "2026-04-21T19:36:42Z",
+  "published_at": "2026-04-28T19:53:48Z",
   "repo_name": "all-restaurants-in-jonesboro-arkansas-us-sample-609093",
   "sample_asset_name": "beamstation_609093_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/609093/beamstation_609093_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "2624a1f116692d5693af886846ef8c6e66d8a0daec7e00e8d4209e35bc5deb7a",
-  "sample_size_bytes": 112022,
-  "total_records": 262
+  "sample_records": 30,
+  "sample_sha256": "aa250335588628a87ffd4b22b1db22eb94e3117ecb693c81ce27d58c3d3b1e50",
+  "sample_size_bytes": 108918,
+  "total_records": 305
 }
